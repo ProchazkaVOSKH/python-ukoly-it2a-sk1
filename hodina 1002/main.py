@@ -21,3 +21,4 @@ else:
     print(f"{x} je záporné číslo")
     x=-x
 print(f"Absolutní hodnota: {x}")
+
